@@ -32,10 +32,9 @@ img {
 }
 
 #logo {
-	width: 70px;
-	height: 70px;
 	color: #fff;
 	text-transform: uppercase;
+	font-size: 2rem;
 }
 
 #main-nav {
@@ -151,14 +150,14 @@ img {
 				height: 15px;
 				width: 15px;
 				line-height: 15px;
-				padding: 1rem;
+				padding: 0.4rem;
 				transition: all 1s;
 			}
 			&-icon {
 				border-radius: 50%;
 				background: $dark-color;
 				color: #fff;
-				padding: 2rem;
+				padding: 1rem;
 				width: 70px;
 				height: 70px;
 				line-height: 70px;
